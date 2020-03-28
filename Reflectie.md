@@ -41,10 +41,14 @@ Deze week ben ik begonnen met het "Domme" deel van de Npc dat op basis van instr
 
 ![alt text](https://github.com/t-luijken/teun_luijken_FPindividu/blob/master/structuur-Simulation.png)
 
+Zo hebben wij besloten om de simulatie ongeveer te laten werken, in de werkelekheid zal de simulatie waarschijnlijk niet precies dit diagram volgen maar het zal wel ongeveer dit diagram volgen.
+
 
 
 ---
 ## week 7
+
+We zijn begonnen met de PathFinding van de simulatie, omdat we vanuit thuis moeten merken merk ik wel een negatieve impact op mijn werkvermogen, het is moeilijker hulp te vragen en het is makkelijker om afgeleid te worden. De deadline is ook een week versteld omdat het moeilijker is om thuis samen te werken. Deze week ben ik verder gegaan met het NPC renderen en om deze te integreren met de PathFinding NPC's ook ben ik begonnen met het toevoegen van commentaar aan de code. eerst dacht ik dat dit geen groot probleem zou worden maar dat bleek naderhand toch een grotere klus dan verwacht te zijn. Commentaar toevoegen aan code die je zelf niet geschreven hent en die de auteur zelf een maand geleden geschreven heeft is een grotere uitdaging dan dat ik verwacht had.
 
 ---
 ## “In het bedrijfsleven wordt gebruik gemaakt van JavaFX"
